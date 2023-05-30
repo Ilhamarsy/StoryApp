@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="start_desc">Share your story today!</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="name">Name</string>
+
+    <string name="upload">Upload</string>
+    <string name="error_login">please enter a valid email and password</string>
+
+    <string name="error_connect">Error connection, try again later</string>
+
+    <string name="have_permission">Doesn\'t have permission.</string>
+    <string name="upload_success">Upload successful</string>
+    <string name="insert_picture">please insert a picture</string>
+    <string name="choose_picture">Choose a Picture</string>
+
+
+    <string name="acc_created_success">Account created successfully</string>
+    <string name="dialog_message">Continue login</string>
+    <string name="dialog_positive_btn">Continue</string>
+    <string name="dialog_negative_btn">Cancel</string>
+    <string name="already_registered">Email already registered</string>
+
+    <string name="description">Description</string>
+    <string name="back">Back</string>
+
+    <string name="add_ab">Add Story</string>
+    <string name="photo_preview">Photo preview</string>
+    <string name="camera_btn">Camera</string>
+    <string name="gallery_btn">Gallery</string>
+
+    <string name="capture_button">capture button</string>
+    <string name="switch_button">switch button</string>
+
+    <string name="detail_ab">Detail Story</string>
+    <string name="date">Date</string>
+    <string name="photo_detail">Photo detail</string>
+
+    <string name="login_illustration">Login illustration</string>
+
+    <string name="please_wait">Please wait</string>
+    <string name="register_illustration">register illustrator</string>
+    <string name="start_illustration">start illustration</string>
+    <string name="add_story_button">add story button</string>
+
+    <string name="uploaded_on">Uploaded on</string>
+    <string name="valid_email">please enter a valid email</string>
+    <string name="valid_name">Name must be filled</string>
+    <string name="valid_password">Passwords must be longer than 7 characters</string>
+
+    <string name="fail_take_pic">Failed to take a picture</string>
+    <string name="failed_launch_camera">Failed to launch camera</string>
+    <string name="welcome">Welcome,</string>
+
+    <string name="retry">Try again</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Add Location</string>
+    <string name="location_not_found">Location is not found. Try Again</string>
+    <string name="maps_button">Maps button</string>
+    <string name="languange_button">Languange button</string>
+    <string name="logout_button">Logout button</string>
+    <string name="image">Image</string>
+    <string name="maps">Maps</string>
+    <string name="went_wrong">something went wrong. Try again</string>
+</resources>

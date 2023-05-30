@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="login">Login</string>
+    <string name="register">Registrasi</string>
+    <string name="start_desc">Bagikan ceritamu sekarang!</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="name">Nama</string>
+
+    <string name="upload">Unggah</string>
+    <string name="error_login">Masukkan email dan password yang sesuai</string>
+
+    <string name="error_connect">Koneksi bermasalah, coba lagi nanti</string>
+
+    <string name="have_permission">Tidak mempunyai izin</string>
+    <string name="upload_success">Berhasil mengunggah</string>
+    <string name="insert_picture">Masukkan foto</string>
+    <string name="choose_picture">Pilih foto</string>
+
+    <string name="acc_created_success">Akun berhasil dibuat</string>
+    <string name="dialog_message">Lanjutkan login</string>
+    <string name="dialog_positive_btn">Lanjutkan</string>
+    <string name="dialog_negative_btn">Batal</string>
+    <string name="already_registered">Email sudah terdaftar</string>
+
+    <string name="description">Deskripsi</string>
+
+    <string name="back">Kembali</string>
+
+    <string name="add_ab">Tambah Cerita</string>
+    <string name="photo_preview">Photo preview</string>
+    <string name="camera_btn">Camera</string>
+    <string name="gallery_btn">Gallery</string>
+
+    <string name="capture_button">capture button</string>
+    <string name="switch_button">switch button</string>
+
+    <string name="detail_ab">Detail Cerita</string>
+    <string name="date">Date</string>
+    <string name="photo_detail">Photo detail</string>
+
+    <string name="login_illustration">Login illustration</string>
+
+    <string name="please_wait">Mohon tunggu</string>
+    <string name="register_illustration">register illustrator</string>
+    <string name="start_illustration">start illustration</string>
+    <string name="add_story_button">add story button</string>
+
+    <string name="uploaded_on">Diunggah pada</string>
+
+    <string name="valid_email">Masukkan email yang sesuai</string>
+    <string name="valid_name">Nama harus diisi</string>
+    <string name="valid_password">Password harus lebih dari 7 karakter</string>
+
+    <string name="fail_take_pic">Gagal mengambil foto</string>
+    <string name="failed_launch_camera">Gagal membuka kamera</string>
+    <string name="welcome">Selamat Datang,</string>
+
+    <string name="retry">Coba lagi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="location">Tambahkan lokasi</string>
+    <string name="location_not_found">Lokasi tidak ditemukan. Coba lagi nanti</string>
+    <string name="maps_button">tombol peta</string>
+    <string name="languange_button">tombol bahasa</string>
+    <string name="logout_button">tombol logout</string>
+    <string name="image">Gambar</string>
+    <string name="maps">Peta</string>
+</resources>
